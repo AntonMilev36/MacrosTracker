@@ -68,6 +68,8 @@ The repository already contains:
 - USDA-derived CSV files in `nutrition_data/`
 - The LoRA coaching adapter in `app/models/lora_coaching_adapter/`
 
+**Note: You need to create image_detection_data yourself. There you have to put what's inside the downloaded .zip file from the the first link of `resources.txt`. It has `images` folder and `annotations.json` file.
+
 The source links for the food-recognition and USDA datasets are recorded in `resources.txt`.
 
 The end-to-end notebook also expects this detector checkpoint:
