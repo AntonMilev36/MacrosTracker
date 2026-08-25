@@ -1,4 +1,3 @@
 https://www.kaggle.com/datasets/awsaf49/food-recognition-2022-dataset
 
-
-https://fdc.nal.usda.gov/download-datasets
+USDA data: https://fdc.nal.usda.gov/download-datasets (Download link: https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_foundation_food_json_2026-04-30.zip)
